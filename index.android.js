@@ -3,7 +3,8 @@
  * https://github.com/facebook/react-native
  */
 'use strict';
-'use strict';
+var React = require('react-native');
+var {AppRegistry} = React;
 
 var reactnativeAlphabeticalListView = require('./components/SelectableSectionsListView');
 
