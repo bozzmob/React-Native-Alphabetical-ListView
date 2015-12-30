@@ -19,6 +19,12 @@ If you are running on Phone-
 5. adb reverse tcp:8081 tcp:8081
 6. react-native run-android
 
+## Screenshots-
+Original Screenshot-
+
+Screenshot from the codebase-
+
+
 ## Regards
 
 Thanks to [@johanneslumpe](https://github.com/johanneslumpe) for this amazing [project](https://github.com/johanneslumpe/react-native-selectablesectionlistview) work. I am trying to run a fork of it and test how to make the same compatible with the latest React Native versions.
