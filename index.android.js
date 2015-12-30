@@ -2,6 +2,8 @@
 var React = require('react-native');
 var {Component, PropTypes, View, Text, TouchableHighlight,AppRegistry} = React;
 
+var AlphabetListView = require('react-native-alphabetlistview');
+
 class SectionHeader extends Component {
   render() {
     // inline styles used for brevity, use a stylesheet when possible
