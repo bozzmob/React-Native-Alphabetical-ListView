@@ -10,9 +10,11 @@ This is a working example project for Android and IOS.
 3. npm install
 
 If you are running on Emulator-
+
 4. react-native run-android
 
 If you are running on Phone-
+
 4. react-native start > /dev/null 2>&1 &
 5. adb reverse tcp:8081 tcp:8081
 6. react-native run-android
