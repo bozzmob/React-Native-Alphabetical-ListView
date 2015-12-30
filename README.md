@@ -20,10 +20,12 @@ If you are running on Phone-
 6. react-native run-android
 
 ## Screenshots-
-Original Screenshot-
 
-Screenshot from the codebase-
+### Original Screenshot-
+![](./screenshot.gif)
 
+### Screenshot from the codebase-
+![](./screenshot.png)
 
 ## Regards
 
