@@ -24,7 +24,7 @@ This is a working example project for Android and IOS.
 ### Original Screenshot-
 ![](./screenshot.gif)
 
-### Screenshot from the codebase-
+### Screenshot from the example-
 ![](./screenshot.png)
 
 ## Regards
