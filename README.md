@@ -1,14 +1,26 @@
 #React Native Alphabetical ListView
 
-##Work In Progress
+This is a working example project for Android and IOS.
+
+
+## Setup Instructions-
+
+1. git clone https://github.com/bozzmob/React-Native-Alphabetical-ListView.git
+2. cd React-Native-Alphabetical-ListView
+3. npm install
+
+If you are running on Emulator-
+4. react-native run-android
+
+If you are running on Phone-
+4. react-native start > /dev/null 2>&1 &
+5. adb reverse tcp:8081 tcp:8081
+6. react-native run-android
 
 Thanks to [@johanneslumpe](https://github.com/johanneslumpe) for this amazing [project](https://github.com/johanneslumpe/react-native-selectablesectionlistview) work. I am trying to run a fork of it and test how to make the same compatible with the latest React Native versions.
 
+
 ###To Do-
-1. Fix issues
-2. Make it compatible with current react native version
-3. Enhance the alphabetical list view to add more features
+- Enhance the alphabetical list view to add more features
 
 More details soon.
-
-####It would be great if you can help in resolving the [issues](https://github.com/bozzmob/React-Native-Alphabetical-ListView/issues)
