@@ -1,4 +1,4 @@
-#React Native Alphabetical ListView
+# React Native Alphabetical ListView
 
 This is a working example project for Android and IOS.
 
